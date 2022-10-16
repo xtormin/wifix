@@ -2,7 +2,16 @@
 
 Are you tired of install the same wifi hacking tools in each system that you need?
 
+## Install
+
+```
+sudo bash wifix.sh
+```
+
+## Tools
+
 Just run this script and you will install:
+
 ```
 hostapd
 hostapd-wpe
@@ -35,3 +44,11 @@ And in the `~/wifi-tools` directory you will have the following repositories:
 - **wifiphisher** - https://github.com/wifiphisher/wifiphisher.git
 - **wifite2** - https://github.com/derv82/wifite2.git
 - **eaphammer** - https://github.com/s0lst1c3/eaphammer.git
+
+
+# Social
+
+* Linkedin: [https://www.linkedin.com/in/xtormin/](https://www.linkedin.com/in/xtormin/).
+* Twitter: [https://twitter.com/xtormin](https://twitter.com/xtormin).
+* Youtube: [https://www.youtube.com/channel/UCZs7q5QeyXS5YmUq6lexozw](https://www.youtube.com/channel/UCZs7q5QeyXS5YmUq6lexozw).
+* Instagram: [https://www.instagram.com/xtormin/](https://www.instagram.com/xtormin/).
