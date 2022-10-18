@@ -15,8 +15,11 @@ Just run this script and you will install:
 ```
 hostapd
 hostapd-wpe
+mana-toolkit
 eaphammer
 mdk4
+hcxdumptool
+hcxpcapngtool
 airgeddon
 aircrack-ng
 asleap hashcat
@@ -35,16 +38,17 @@ xterm
 
 And in the `~/wifi-tools` directory you will have the following repositories:
 
-- **airgeddon** - https://github.com/v1s1t0r1sh3r3/airgeddon.git
-- **EAP_buster** - https://github.com/blackarrowsec/EAP_buster.git
-- **crEAP** - https://github.com/W9HAX/crEAP.git
-- **Auto_EAP** - https://github.com/Tylous/Auto_EAP.git
-- **PCredz** - https://github.com/lgandx/PCredz.git
-- **wpa2-wordlists** - https://github.com/kennyn510/wpa2-wordlists.git
-- **wifiphisher** - https://github.com/wifiphisher/wifiphisher.git
-- **wifite2** - https://github.com/derv82/wifite2.git
-- **eaphammer** - https://github.com/s0lst1c3/eaphammer.git
-
+- **airgeddon** - https://github.com/v1s1t0r1sh3r3/airgeddon
+- **EAP_buster** - https://github.com/blackarrowsec/EAP_buster
+- **crEAP** - https://github.com/W9HAX/crEAP
+- **Auto_EAP** - https://github.com/Tylous/Auto_EAP
+- **PCredz** - https://github.com/lgandx/PCredz
+- **wpa2-wordlists** - https://github.com/kennyn510/wpa2-wordlists
+- **wifiphisher** - https://github.com/wifiphisher/wifiphisher
+- **wifite2** - https://github.com/derv82/wifite2
+- **eaphammer** - https://github.com/s0lst1c3/eaphammer
+- **air-hammer** - https://github.com/Wh1t3Rh1n0/air-hammer
+- **eapeak** - https://github.com/rsmusllp/eapeak
 
 # Social
 
